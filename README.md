@@ -1,9 +1,13 @@
 # Convert
 
-Convertie les vidéos m4a en mp3 ou en wav
+Convert the video m4a to mp3 or to wav
 
-## Différente options
+## Depends
 
-* -mp3 : Convertie en mp3 et supprime tout les m4a
-* -wav : Convertie en wav et supprime les m4a
+Depends of faad and lame commands
+
+## Many options
+
+* -mp3 : Convert all file of m4a to mp3 and delete all file m4a
+* -wav : Convert all file of m4a to wav and delete all file m4a
 
